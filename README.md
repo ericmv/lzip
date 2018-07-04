@@ -2,6 +2,7 @@
 Program that compresses and decompresses files using lempel-ziv method
 
 Compile using g++
+
 To Compress: LZ <filename> >> <compressed filename>
   Optional Parameters: -L <integer between 3 and 4>
                        -N <integer between 11 and 14>
